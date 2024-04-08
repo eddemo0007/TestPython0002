@@ -1,3 +1,9 @@
+# Generated with ChatGPT using chat.openai.com and the following prompt:  
+#  Using Visual Code , can you give me detailed steps on how to create a python github repo that has a  CRUD python program that will perform CRUD operations on a Customer table in a Postgresql database?  I do not want to use :python3 -m venv venv
+#  Instead I want to use:
+#  Pipenv
+#  Can you give me code that will perfoam all 4 CRUD operations with user import along with 15 sample database records? Can you also include steps that I need to take to Create a Pipfile.lock file
+
 import psycopg2
 from psycopg2 import sql
 
